@@ -23,9 +23,9 @@ _É um projeto que particulamente eu gostei bastante de fazer, não é algo muit
 
 
 ```bash
-$ git clone https://github.com/nikorasucodes/financas
+$ git clone https://github.com/nikorasucodes/financas-ReactNative
 
-$ cd financas
+$ cd financas-ReactNative
 
 $ yarn install
 
